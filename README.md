@@ -1,6 +1,6 @@
 # 🕵️‍♂️ AI Lead Generation Agent (Google Maps & Serper)
 
-![Workflow Screenshot](image_7581da.png)
+![Workflow Screenshot](lead-gen-wf.png)
 
 ## 🚀 Project Overview
 This represents an experimental **AI Agent** built with **n8n** that automates the B2B lead generation process.
